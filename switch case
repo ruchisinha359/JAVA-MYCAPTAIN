@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Switchcase{
+public class Switchcase{
 public static void main(String[] args){
 int choice;
 System.out.println("Pick one: 1.Hi\t2.Hey\t3.Hello\t");
